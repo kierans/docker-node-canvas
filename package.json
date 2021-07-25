@@ -1,0 +1,24 @@
+{
+  "name": "docker-node-canvas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample project using node-canvas in Docker",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kierans/docker-node-canvas.git"
+  },
+  "keywords": [
+    "docker",
+    "node-canvas"
+  ],
+  "author": "Kieran Simpson <kierans777@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kierans/docker-node-canvas/issues"
+  },
+  "homepage": "https://github.com/kierans/docker-node-canvas#readme"
+}
