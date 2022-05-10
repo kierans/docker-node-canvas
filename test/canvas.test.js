@@ -12,5 +12,6 @@ describe("using node-canvas", function() {
 	 */
 	it("should use node-canvas", function() {
 		// as long as the test executes all is well
+		const t = 1
 	});
 });
